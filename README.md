@@ -1,7 +1,5 @@
-# Landing page for Floral masterclass.
-### Html and css only.
-
-![photo](https://github.com/KatyaMarakhovskaya/Floral-Masterclass/blob/master/photo.PNG)
+# Different js and jquerry feaches
+### Html,css, js, jquerry
 
 
 Please feel free to make a commit!
