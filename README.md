@@ -2,4 +2,3 @@
 ### Html,css, js, jquerry
 
 
-Please feel free to make a commit!
